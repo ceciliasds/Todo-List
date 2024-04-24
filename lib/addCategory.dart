@@ -23,7 +23,7 @@ class _AddCategoryButtonState extends State<AddCategoryButton> {
           context: context,
           builder: (BuildContext context) {
             return AlertDialog(
-              backgroundColor: Color.white,
+              backgroundColor: Colors.white,
               content: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
